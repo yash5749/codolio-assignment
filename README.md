@@ -218,5 +218,4 @@ npm run dev
 ```
 ---
 # SCREENSHORT
-
-![alt text](image.png)
+<img width="2200" height="1820" alt="image" src="https://github.com/user-attachments/assets/d84dcf91-ddba-4113-ba48-85b9f8f87e9f" />
